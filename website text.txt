@@ -1,0 +1,84 @@
+	<h3>Projects</h3> 
+  
+  <div>Atom</div>
+<p>I have worked on a varity of projects with the most notable one Being atom <br>
+    Me along side with Varad Sharma coded the Python code well created the code and<br> 
+    I expanded it. I also worked on all of the code in the project all by my self <br>
+    arduino and Ams. I learned that How increadabley supportive teachers be for example <br>
+    Arti Patel ma'am and Saurab Sahu sir.
+</p>
+<hr>
+<div>Avishkar Diwali compeition</div>
+
+<p>I have worked in a compeition hosted by Avishkar in which we had to make a <br>
+project using The kit provided by the government I ofcourse made a project using <br>
+arduino and We as a Whole team won the
+
+
+arduino and We as a Whole team won the 2nd award which ment we ranked 2nd in a <br>
+nation wide compeition. 
+</p>
+<div>The list of team members are :</div>
+<ul>Shounak Verma</ul>
+<ul>Anirudha Motiwala</ul>
+<ul>Krishna phanrajkher</ul>
+<ul>Yuvan malik</ul>
+
+<ul>Hirtom ray</ul>
+<hr>
+<div id="IRC">IRC</div>
+<p>I once participated in the International Robotics compeition and it <br>
+was an exprience of a lifetime even tho we were not able to attende it <br>
+due to some problems. I learned a valueable lesson never to be over confidnet.<br>
+
+</p>
+<hr>
+<div>TRF</div>
+<p>I participated in a Tech robo fest and made a project along with my<br>
+pals and "It also taught me a valueable lesson that sensor fail at the last moment" 
+</p>
+<div>My team mates were:</div>
+<ul>Anirudha Motiwala</ul>
+<ul>krishna phanrajkher</ul>
+<ul>Shounak Verma</ul>
+<hr>
+<div>Delhi Public School Kolar Road Tech fest</div>
+<p>I was a volentire in DPS kolar Tech fest and being the youngest one <br>
+    It was a life changing event and a magnificinet one I have learned a <br>
+    lot from my brother <b>Shreshth Verma</b> I saw the whole process and <br>
+    it was increadable as the team work and every singal step the cordination between <br>
+    the tachers and Students and the hard work they put in to it.
+</p>
+<hr>
+<p>I learned a lot in these projects there where many more but these were the main one</p>
+<h4>compeitions</h4>
+<p>I have attented a fair-share of compeitions the one mentioned here are just to name a few </p>
+<div>Zeith Mun</div>
+<p>I attented zenith International Mun as my second Mun and I won virble Mention in it</p>
+<hr>
+<div>Ies Mun</div>
+<p>I attented the Ies Mun as my third mun and as they say third time's the <br>
+    charm I won the High commendation award the 2nd higgest award.</p>
+<hr>
+<div>DPS kolar Mun</div>
+<P> I attented the Dps kolar mun as my 4th and final one for the year I won the Virble Mention</P>
+<hr>
+<div>inter house debate compeition</div>
+<p>I participated in the inter house Debate compeition and won the 3rd prize this was my <br>
+first debate in this style and thus only cam in third</p>
+<hr>
+<div id="Projects">Inter house journalist in me compeition</div>
+<p>In this competion I won the 2nd award in 7th grade</p>
+<hr>
+<p>I learned a lot from these compeitions and just to keep in mind these are only some of the<br>
+compeitions I participated in there were a lot more also worth mentioning these were only in the sesson 22-23.<br>
+I devloped speaking skill through these skills and overcame my piblic speaking anxity. these compeitions also <br>
+helped me learn the communation skills whicj will help me in feature endevors. 
+</p>
+<label for="dropdown-text">Select an option:</label>
+  <select id="dropdown-text" onchange="document.getElementById('display-text').innerHTML = this.value;">
+    <option value="">Select an option</option>
+    <option value="This code creates a new dropdown menu with the id 'dropdown-text' below the paragraph, and it is associated with a label. Each option in the menu has a value and text that will be displayed when the option is clicked. The value of the selected option will be displayed in a div element with the id 'display-text'.">Option 1</option>
+    <option value="Option 2">Option 2</option>
+    <option value="Option 3">Option 3</option>
+  </select>
